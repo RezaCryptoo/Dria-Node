@@ -105,7 +105,7 @@ dkn-compute-launcher start
 
 ### 🔄 Ensure the Node is Online
 Your node should appear online, similar to the image shown!
-
+(https://github.com/RezaCryptoo/dria/blob/main/model02.JPG)
 ## 🔚 Exit Screen
 To exit the screen session:
 
