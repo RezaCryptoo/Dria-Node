@@ -135,3 +135,11 @@ To check the status and points of your node:
 ### 🔍 Check Points (Search Ethereum Wallet Address):
 [Dria Edge AI](https://dria.co/edge-ai)
 
+
+
+---
+
+📢 **Follow for Updates:**
+- Twitter: [https://x.com/Reza_Cryptoo](https://x.com/Reza_Cryptoo)
+- Telegram: [https://t.me/Rezaa_Cryptoo](https://t.me/Rezaa_Cryptoo)
+
