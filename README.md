@@ -6,7 +6,9 @@
 ## System Requirements
 
 - **RAM:** 8 GB  
+
 - **CPU:** 8-Core  
+
 - **Storage:** 100 GB  
 
 ---
