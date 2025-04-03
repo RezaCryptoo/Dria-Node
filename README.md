@@ -9,6 +9,7 @@
 - **CPU:** 8-Core  
 - **Storage:** 100 GB  
 
+---
 
 ## 1️⃣ Update System
 
