@@ -1,8 +1,8 @@
 # Dria Node Setup Guide 🚀
 
+![Node Status](https://github.com/RezaCryptoo/dria/blob/main/01.JPG?raw=true)
 
-
-
+https://github.com/RezaCryptoo/dria/blob/main/01.JPG?raw=true
 
 ## 1️⃣ Update System
 
