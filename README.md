@@ -1,47 +1,40 @@
-# Dria Node Setup Guide
+# Dria Node Setup Guide 🚀
 
 ## 1️⃣ Update System
-To begin, update your system:
 
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
 
 ## 2️⃣ Install Required Tools
-Install the necessary tools:
 
 ```bash
 sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
 ```
 
 ## 3️⃣ Install Screen
-Install Screen to manage terminal sessions:
 
 ```bash
 sudo apt install screen -y
 ```
 
-## 4️⃣ Install Ollama 🤖
-Ollama is a tool for running AI models. To install it, run:
+## 4️⃣ Install Ollama 
 
 ```bash
 curl -fsSL https://ollama.com/download/linux | bash
 ```
 
-After installation, check the version of Ollama:
-
 ```bash
 ollama --version
 ```
 
-## 5️⃣ Download and Install Dria Launcher 🚀
-To download and install the Dria Launcher, use the following command:
+## 5️⃣ Download and Install Dria Launcher 
 
 ```bash
 curl -fsSL https://dria.co/launcher | bash
 ```
 
-## 6️⃣ Select AI Models 🧠
+## 6️⃣ Select AI Models 
 After installation, configure the models by running:
 
 ```bash
