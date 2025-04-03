@@ -3,6 +3,12 @@
 ![Node Status](https://github.com/RezaCryptoo/dria/blob/main/01.JPG?raw=true)
 
 
+## System Requirements
+
+- **RAM:** 8 GB  
+- **CPU:** 8-Core  
+- **Storage:** 100 GB  
+
 
 ## 1️⃣ Update System
 
