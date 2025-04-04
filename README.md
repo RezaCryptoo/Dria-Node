@@ -124,7 +124,7 @@ dkn-compute-launcher start
 To exit the screen session:
 
 ```bash
-Ctrl + A then D
+Ctrl + A + D
 ```
 
 ## 🔟 Check Node Status and Points 📊
