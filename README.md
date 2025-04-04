@@ -115,7 +115,8 @@ dkn-compute-launcher start
 ```
 
 ### 🔄 Ensure the Node is Online
-Your node should appear online, similar to the image shown!
+
+✅ Your node should be online and displayed like the example shown in the image!
 
 ![Node Status](https://raw.githubusercontent.com/RezaCryptoo/dria/main/model02.JPG)
 
