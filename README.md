@@ -36,7 +36,7 @@ sudo apt install screen -y
 ## 4️⃣ Install Ollama 
 
 ```bash
-curl -fsSL https://ollama.com/download/linux | bash
+curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 ```bash
