@@ -61,7 +61,7 @@ Then:
 - Select **Edit model selection**.
 - Avoid selecting all models as they take up significant space. Choose only the models you need.
 
-### Suggested Models (For Ollama):
+### Suggested Models :
 ```yaml
 ollama:
 
