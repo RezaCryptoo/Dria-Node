@@ -63,22 +63,28 @@ Then:
 
 ### Suggested Models (For Ollama):
 ```yaml
-qwq:latest
-hellord/mxbai-embed-large-v1:f16
-qwen2.5-coder:7b-instruct-fp16
-mixtral:8x7b
-deepseek-r1:7b
-phi3.5:3.8b-mini-instruct-fp16
-phi3.5:3.8b
-llama3.2:3b
-llama3.2:1b-text-q4_K_M
-llama3.2:1b
-llama3.1:latest
-driaforall/tiny-agent-a:3b
-driaforall/tiny-agent-a:1.5b
-driaforall/tiny-agent-a:0.5b
-deepseek-r1:1.5b
-deepseek-coder:6.7b
+ollama:
+
+  [x] phi3.5:3.8b
+  [x] phi3.5:3.8b-mini-instruct-fp16
+  [x] llama3.1:latest
+  [x] llama3.2:1b
+  [x] llama3.2:3b
+  [x] llama3.2:1b-text-q4_K_M
+  [x] qwen2.5:7b-instruct-q5_0
+  [x] qwen2.5-coder:7b-instruct-fp16
+  [x] qwen2.5-coder:7b-instruct-fp16
+  [x] qwen2.5-coder:1.5b
+  [x] deepseek-coder:6.7b
+  [x] deepseek-r1:1.5b
+  [x] deepseek-r1:7b
+  [x] driaforall/tiny-agent-a:0.5b
+  [x] driaforall/tiny-agent-a:1.5b
+  [x] driaforall/tiny-agent-a:3b
+
+VLLM : 
+
+[x] Qwen/Qwen2.5-1.5B-Instruct
 ```
 After selecting the models you need, click **Save**.
 
