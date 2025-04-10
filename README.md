@@ -46,7 +46,7 @@ ollama --version
 ## 5️⃣ Download and Install Dria Launcher 
 
 ```bash
-curl -fsSL https://dria.co/launcher | bash
+curl -fsSL https://dria.co/launcher | bash && source ~/.bashrc
 ```
 
 ## 6️⃣ Select AI Models 
