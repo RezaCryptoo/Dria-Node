@@ -117,6 +117,9 @@ After testing the models, stop the node and run it inside a **Screen** session t
 
 ```bash
 screen -S dria
+```
+
+```bash
 dkn-compute-launcher start
 ```
 
