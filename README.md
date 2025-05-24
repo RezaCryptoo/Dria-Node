@@ -1,4 +1,5 @@
 # Dria Node Setup Guide 🚀
+![image](https://github.com/user-attachments/assets/d55fb6a9-2fbf-4c46-84f5-191d922468b5)
 
 ![Node Status](https://github.com/RezaCryptoo/dria/blob/main/01.JPG?raw=true)
 
@@ -64,27 +65,22 @@ Then:
 ### Suggested Models :
 ```yaml
 ollama:
+[x] llama3.2:1b-instruct-q4_K_M
+[x] gemma3:4b
 
-  [x] phi3.5:3.8b
-  [x] phi3.5:3.8b-mini-instruct-fp16
-  [x] llama3.1:latest
-  [x] llama3.2:1b
-  [x] llama3.2:3b
-  [x] llama3.2:1b-text-q4_K_M
-  [x] qwen2.5:7b-instruct-q5_0
-  [x] qwen2.5-coder:7b-instruct-fp16
-  [x] qwen2.5-coder:7b-instruct-fp16
-  [x] qwen2.5-coder:1.5b
-  [x] deepseek-coder:6.7b
-  [x] deepseek-r1:1.5b
-  [x] deepseek-r1:7b
-  [x] driaforall/tiny-agent-a:0.5b
-  [x] driaforall/tiny-agent-a:1.5b
-  [x] driaforall/tiny-agent-a:3b
+openai:
+[x] gpt-4o
+[x] gpt-4o-mini
 
-VLLM : 
+gemini:
+[x] gemini-2.5-pro-exp-03-25
+[x] gemini-2.0-flash
 
-[x] Qwen/Qwen2.5-1.5B-Instruct
+openrouter:
+[x] anthropic/claude-3.5-sonnet
+[x] anthropic/claude-3-7-sonnet
+
+
 ```
 After selecting the models you need, click **Save**.
 
