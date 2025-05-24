@@ -1,7 +1,7 @@
 # Dria Node Setup Guide 🚀
 ![image](https://github.com/user-attachments/assets/d55fb6a9-2fbf-4c46-84f5-191d922468b5)
 
-![Node Status](https://github.com/RezaCryptoo/dria/blob/main/01.JPG?raw=true)
+
 
 
 ## System Requirements
