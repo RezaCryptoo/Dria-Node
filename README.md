@@ -82,7 +82,18 @@ openrouter:
 
 
 ```
-After selecting the models you need, click **Save**.
+After selecting the model, choose the “API Keys” option.
+
+You will need 3 API keys.
+Get them for free from the following links and enter them:
+
+OPENAI_API_KEY → https://aistudio.google.com/app/apikey
+
+GEMINI_API_KEY → https://platform.openai.com/api-keys
+
+OPENROUTER_API_KEY → https://openrouter.ai/settings/keys
+
+After entering the keys, click “Save.”
 
 ## 7️⃣ Enter Referral Code 🏷️
 (Optional) If you'd like, you can use my referral code:
