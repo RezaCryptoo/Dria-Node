@@ -87,9 +87,9 @@ After selecting the model, choose the “API Keys” option.
 You will need 3 API keys.
 Get them for free from the following links and enter them:
 
--OPENAI_API_KEY → https://aistudio.google.com/app/apikey
+-OPENAI_API_KEY → https://platform.openai.com/api-keys
 
--GEMINI_API_KEY → https://platform.openai.com/api-keys
+-GEMINI_API_KEY → https://aistudio.google.com/app/apikey 
 
 -OPENROUTER_API_KEY → https://openrouter.ai/settings/keys
 
